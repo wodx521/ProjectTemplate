@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">雷达星球</string>
+
+    <string name="bottom_one">第一</string>
+    <string name="bottom_two">第二</string>
+    <string name="bottom_third">第三</string>
+    <string name="bottom_four">第四</string>
+    <string name="bottom_five">第五</string>
+
+</resources>
