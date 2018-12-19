@@ -12,7 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.lairui.template.uiview.activity.SplashActivity">
+        <activity
+            android:name="com.lairui.template.uiview.activity.SplashActivity"
+            android:theme="@style/splash_theme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

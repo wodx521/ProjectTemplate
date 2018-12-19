@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">雷达星球</string>
+    <string name="app_name">示例项目</string>
 
     <string name="bottom_one">第一</string>
     <string name="bottom_two">第二</string>
